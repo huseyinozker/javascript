@@ -1,0 +1,86 @@
+[
+    {
+        "name":"Dune",
+        "author":"Frank Herbert",
+        "details":"700pl <br> 1965",
+        "cover":"books/dune.jpg",
+        "category":"sci-fi"
+    },
+    {
+        "name":"Disconnected",
+        "author":"Oguz Atay",
+        "details":"702pl 1971",
+        "cover":"books/disconnected.jpeg",
+        "category":"drama"
+    },
+    {
+        "name":"Bozkurtlar",
+        "author":"Atsiz",
+        "details":"688pl 1973",
+        "cover":"books/bozkurtlar.jpg",
+        "category":"history"
+    },
+    {
+        "name":"Dune Messiah",
+        "author":"Frank Herbert",
+        "details":"300pl 1968",
+        "cover":"books/dunemessiah.jpg",
+        "category":"sci-fi"
+    },
+    {
+        "name":"Harry Potter",
+        "author":"JK Rowling",
+        "details":"268pl 2001",
+        "cover":"books/harrypotter.jpeg",
+        "category":"fantasy"
+    },
+    {
+        "name":"Lord Of The Rings",
+        "author":"J.R.R Tolkien",
+        "details":"453pl 1954",
+        "cover":"books/lordoftherings.jpg",
+        "category":"fantasy"
+    },
+    {
+        "name":"Martin Eden",
+        "author":"Jack London",
+        "details":"453pl 1909",
+        "cover":"books/martineden.jpg",
+        "category":"classic"
+    },
+    {
+        "name":"Missing You",
+        "author":"Harlan Coben",
+        "details":"280pl 2019",
+        "cover":"books/missingyou.jpg",
+        "category":"true crime"
+    },
+    {
+        "name":"Oscar Wilde Poems",
+        "author":"Oscar Wilde",
+        "details":"",
+        "cover":"books/oscarwilde.jpg",
+        "category":"poetry"
+    },
+    {
+        "name":"Kendi Gök Kubbemiz",
+        "author":"Yahya Kemal",
+        "details":"",
+        "cover":"books/yahyakemal.png",
+        "category":"poetry"
+    },
+    {
+        "name":"The Speech",
+        "author":"Ataturk",
+        "details":"",
+        "cover":"books/thespeech.png",
+        "category":"speech"
+    },
+    {
+        "name":"The Stand",
+        "author":"Stephen King",
+        "details":"1080pl 1979",
+        "cover":"books/thestand.jpg",
+        "category":"horror"
+    }
+]

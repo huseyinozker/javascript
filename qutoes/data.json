@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Atatürk",
+        "job":"1st President of Turkey",
+        "quote":"“My people are going to learn the principles of democracy the dictates of truth and the teachings of science. Superstition must go. Let them worship as they will, every man can follow his own conscience provided it does not interfere with sane reason or bid him act against the liberty of his fellow men.”",
+        "img":"images/ataturk.jpg"
+    },
+    {
+        "name":"Einstein",
+        "job":"Scientist",
+        "quote":"“The important thing is not to stop questioning. Curiosity has its own reason for existence. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality. It is enough if one tries merely to comprehend a little of this mystery each day.",
+        "img":"images/einstein.jpg"
+    },
+    {
+        "name":"Jules Verne",
+        "job":"Author",
+        "quote":"“The sea is everything. It covers seven tenths of the terrestrial globe. Its breath is pure and healthy. It is an immense desert, where man is never lonely, for he feels life stirring on all sides. The sea is only the embodiment of a supernatural and wonderful existence. It is nothing but love and emotion; it is the Living Infinite. ”",
+        "img":"images/julesverne.jpg"
+    },
+    {
+        "name":"Aristo",
+        "job":"Philosopher",
+        "quote":"“Anybody can become angry — that is easy, but to be angry with the right person and to the right degree and at the right time and for the right purpose, and in the right way — that is not within everybody's power and is not easy.”",
+        "img":"images/aristo.jpg"
+    }
+]

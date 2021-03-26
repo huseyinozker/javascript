@@ -1,0 +1,81 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.container{
+    width: 600px;
+    height: 300px;
+    background-color: #c7ecee;
+    border-radius: 20px;
+    
+}
+#messageContainer{
+    width: 80%;
+    height: 10%;
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.searchContainer{
+    width: 90%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    background-color: #dff9fb;
+    border-radius: 20px;
+    top: 10%;
+    margin: auto;
+}
+.textInput{
+    display: inline-block;
+    border:0px;
+    size: "30";
+    width: 90%;
+    border-radius:20px 0px 0px 20px;
+}
+.submitBtn{
+    display: inline-block;
+    border:0px;
+    border-radius: 0px 20px 20px 0px;
+    background-color: #ff7979;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+.itemContainer{
+    margin: auto;
+    position: relative;
+    width: 90%;
+    top: 20%;
+}
+.item{
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 4vh;
+    width: 100%;
+    background-color: #7ed6df;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.btnContainer{
+
+}
+.iconBtn{
+    border:0px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0);
+}

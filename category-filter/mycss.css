@@ -1,0 +1,97 @@
+body{
+    background-color:#efe6d6;
+}
+.col-lg-1,.col-lg-2,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-8,.col-lg-10{
+    float: left;
+}
+.col-lg-1{
+    width: 8.33%;
+}
+.col-lg-2{
+    width: 16.6%;
+}
+.col-lg-4{
+    width: 33%;
+}
+.col-lg-5{
+    width: 38%;
+}
+.col-lg-6{
+    width: 50%;
+}
+.col-lg-8{
+    width: 66%;
+}
+.col-lg-10{
+    width: 83.33%;
+}
+h1{
+    text-align: center;
+}
+.headerLine{
+    background-color: #666235;
+    width: 40%;
+    height: 4;
+}
+.filterContainer{
+    display: flex;
+    justify-content: center;
+}
+.filterBtn{
+    background-color: #a98c6a;
+    border-radius: 10px;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8 14;
+    margin: 10 10 10 10;
+    cursor: pointer;
+}
+.filterBtn:hover{
+    color:white;
+}
+.books{
+
+    box-sizing: border-box;
+    margin: 10 80 10 80;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 20px;
+}
+
+.bookDiv{
+    background-color: rgba(245, 248, 235, .5);
+    display: flex;
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.bookDiv:hover{
+    background-color: rgba(245, 248, 235, 1);
+}
+.bookDiv .bookImg{
+    width: 160px;
+    height: 180px;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-image: url(books/dune.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+.bookDiv .bookDetail{
+    flex: 1;
+    text-align: center;
+}
+.bookDiv .bookName{
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.bookDiv .author{
+    font-style: italic;
+    margin-top: 0;
+}
+.bookDiv .bookLine{
+    width: 50%;
+}
